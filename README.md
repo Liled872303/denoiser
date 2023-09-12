@@ -167,9 +167,9 @@ For instance, if your noisy files are located in `$noisy` and the clean files in
 
 ```bash
 out=egs/mydataset/tr
-mkdir -p $out
-python -m denoiser.audio $noisy > $out/noisy.json
-python -m denoiser.audio $clean > $out/clean.json
+mkdir -p $
+python -m denoiser.audio $noisy > $/noisy.json
+python -m denoiser.audio $clean > $/clean.json
 ```
 
 ## Usage
